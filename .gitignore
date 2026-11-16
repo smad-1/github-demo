@@ -1,0 +1,8 @@
+#Environment Varioables
+.env 
+
+#Node dependencies 
+node_modules/
+
+#Log files
+.log 
